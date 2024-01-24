@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshay Kumar singh</h1>
 <h3 align="center">A passionate Programmer, Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src"https://drive.google.com/file/d/1Q2-ifcIeV9ql-XVSmehm5eJzTdW4uBnU/view?usp=sharing">
+<img align="right" alt="Coding" width="400" src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgj1UWhD3EF9BdqIhFP4yNTrbT5OvZKjHyTALdXnp_Q&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysingh6394&label=Profile%20views&color=0e75b6&style=flat" alt="akshaysingh6394" /> </p>
 
