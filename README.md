@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://g.dev/akshaykumarsingh_niet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://g.dev/akshaykumarsingh_niet" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akshay-kumar-singh-23105a263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshay-kumar-singh-23105a263/" height="30" width="40" /></a>
 <a href="https://fb.com/https://m.facebook.com/aks.chandel.528?eav=afyrzbkvhdcsjw8x0o6sot-kzprp9krljh5axcl_ewokqgshr8eoq67ivnjikuc8q2o&paipv=0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.facebook.com/aks.chandel.528?eav=afyrzbkvhdcsjw8x0o6sot-kzprp9krljh5axcl_ewokqgshr8eoq67ivnjikuc8q2o&paipv=0" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/its.akshay_zone/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/its.akshay_zone/" height="30" width="40" /></a>
