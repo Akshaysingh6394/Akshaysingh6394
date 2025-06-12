@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Akshay Kumar singh</h1>
 <h3 align="center">A passionate Programmer, Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src"image.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaysingh6394&label=Profile%20views&color=0e75b6&style=flat" alt="akshaysingh6394" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akshaysingh6394" alt="Akshaysingh6394" /></a> </p>
